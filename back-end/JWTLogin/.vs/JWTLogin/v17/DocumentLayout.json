@@ -1,0 +1,267 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Betacom\\Desktop\\Progetti\\JWT\\JWTLogin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6862D24-7844-4121-A604-57F5838FB2CB}|JWTLogin.csproj|c:\\users\\betacom\\desktop\\progetti\\jwt\\jwtlogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6862D24-7844-4121-A604-57F5838FB2CB}|JWTLogin.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6862D24-7844-4121-A604-57F5838FB2CB}|JWTLogin.csproj|c:\\users\\betacom\\desktop\\progetti\\jwt\\jwtlogin\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6862D24-7844-4121-A604-57F5838FB2CB}|JWTLogin.csproj|solutionrelative:services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6862D24-7844-4121-A604-57F5838FB2CB}|JWTLogin.csproj|c:\\users\\betacom\\desktop\\progetti\\jwt\\jwtlogin\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6862D24-7844-4121-A604-57F5838FB2CB}|JWTLogin.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6862D24-7844-4121-A604-57F5838FB2CB}|JWTLogin.csproj|c:\\users\\betacom\\desktop\\progetti\\jwt\\jwtlogin\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6862D24-7844-4121-A604-57F5838FB2CB}|JWTLogin.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6862D24-7844-4121-A604-57F5838FB2CB}|JWTLogin.csproj|c:\\users\\betacom\\desktop\\progetti\\jwt\\jwtlogin\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6862D24-7844-4121-A604-57F5838FB2CB}|JWTLogin.csproj|solutionrelative:models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6862D24-7844-4121-A604-57F5838FB2CB}|JWTLogin.csproj|c:\\users\\betacom\\desktop\\progetti\\jwt\\jwtlogin\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6862D24-7844-4121-A604-57F5838FB2CB}|JWTLogin.csproj|solutionrelative:models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6862D24-7844-4121-A604-57F5838FB2CB}|JWTLogin.csproj|c:\\users\\betacom\\desktop\\progetti\\jwt\\jwtlogin\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6862D24-7844-4121-A604-57F5838FB2CB}|JWTLogin.csproj|solutionrelative:models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6862D24-7844-4121-A604-57F5838FB2CB}|JWTLogin.csproj|c:\\users\\betacom\\desktop\\progetti\\jwt\\jwtlogin\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6862D24-7844-4121-A604-57F5838FB2CB}|JWTLogin.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6862D24-7844-4121-A604-57F5838FB2CB}|JWTLogin.csproj|c:\\users\\betacom\\desktop\\progetti\\jwt\\jwtlogin\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6862D24-7844-4121-A604-57F5838FB2CB}|JWTLogin.csproj|solutionrelative:controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6862D24-7844-4121-A604-57F5838FB2CB}|JWTLogin.csproj|c:\\users\\betacom\\desktop\\progetti\\jwt\\jwtlogin\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6862D24-7844-4121-A604-57F5838FB2CB}|JWTLogin.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6862D24-7844-4121-A604-57F5838FB2CB}|JWTLogin.csproj|c:\\users\\betacom\\desktop\\progetti\\jwt\\jwtlogin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C6862D24-7844-4121-A604-57F5838FB2CB}|JWTLogin.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6862D24-7844-4121-A604-57F5838FB2CB}|JWTLogin.csproj|c:\\users\\betacom\\desktop\\progetti\\jwt\\jwtlogin\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6862D24-7844-4121-A604-57F5838FB2CB}|JWTLogin.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6862D24-7844-4121-A604-57F5838FB2CB}|JWTLogin.csproj|c:\\users\\betacom\\desktop\\progetti\\jwt\\jwtlogin\\migrations\\20250509094125_initialcreateusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6862D24-7844-4121-A604-57F5838FB2CB}|JWTLogin.csproj|solutionrelative:migrations\\20250509094125_initialcreateusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6862D24-7844-4121-A604-57F5838FB2CB}|JWTLogin.csproj|c:\\users\\betacom\\desktop\\progetti\\jwt\\jwtlogin\\jwtlogin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C6862D24-7844-4121-A604-57F5838FB2CB}|JWTLogin.csproj|solutionrelative:jwtlogin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 46,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Betacom\\Desktop\\Progetti\\JWT\\JWTLogin\\Models\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "Models\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\Betacom\\Desktop\\Progetti\\JWT\\JWTLogin\\Models\\JwtSettings.cs",
+              "RelativeToolTip": "Models\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T08:55:12.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\Betacom\\Desktop\\Progetti\\JWT\\JWTLogin\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\Betacom\\Desktop\\Progetti\\JWT\\JWTLogin\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T08:46:55.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\Betacom\\Desktop\\Progetti\\JWT\\JWTLogin\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "Models\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\Betacom\\Desktop\\Progetti\\JWT\\JWTLogin\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "Models\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T08:47:30.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Betacom\\Desktop\\Progetti\\JWT\\JWTLogin\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Betacom\\Desktop\\Progetti\\JWT\\JWTLogin\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T09:12:05.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Betacom\\Desktop\\Progetti\\JWT\\JWTLogin\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Betacom\\Desktop\\Progetti\\JWT\\JWTLogin\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T08:46:11.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Betacom\\Desktop\\Progetti\\JWT\\JWTLogin\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Betacom\\Desktop\\Progetti\\JWT\\JWTLogin\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T08:58:06.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Betacom\\Desktop\\Progetti\\JWT\\JWTLogin\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Betacom\\Desktop\\Progetti\\JWT\\JWTLogin\\Services\\IAuthService.cs",
+              "RelativeToolTip": "Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T09:13:18.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Betacom\\Desktop\\Progetti\\JWT\\JWTLogin\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Betacom\\Desktop\\Progetti\\JWT\\JWTLogin\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T09:19:32.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataController.cs",
+              "DocumentMoniker": "C:\\Users\\Betacom\\Desktop\\Progetti\\JWT\\JWTLogin\\Controllers\\DataController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DataController.cs",
+              "ToolTip": "C:\\Users\\Betacom\\Desktop\\Progetti\\JWT\\JWTLogin\\Controllers\\DataController.cs",
+              "RelativeToolTip": "Controllers\\DataController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T09:34:04.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Betacom\\Desktop\\Progetti\\JWT\\JWTLogin\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Betacom\\Desktop\\Progetti\\JWT\\JWTLogin\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T09:30:25.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Betacom\\Desktop\\Progetti\\JWT\\JWTLogin\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Betacom\\Desktop\\Progetti\\JWT\\JWTLogin\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-09T08:48:08.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Betacom\\Desktop\\Progetti\\JWT\\JWTLogin\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Betacom\\Desktop\\Progetti\\JWT\\JWTLogin\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T14:27:26.8Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250509094125_InitialCreateUserTable.cs",
+              "DocumentMoniker": "C:\\Users\\Betacom\\Desktop\\Progetti\\JWT\\JWTLogin\\Migrations\\20250509094125_InitialCreateUserTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250509094125_InitialCreateUserTable.cs",
+              "ToolTip": "C:\\Users\\Betacom\\Desktop\\Progetti\\JWT\\JWTLogin\\Migrations\\20250509094125_InitialCreateUserTable.cs",
+              "RelativeToolTip": "Migrations\\20250509094125_InitialCreateUserTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T14:27:23.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JWTLogin.csproj",
+              "DocumentMoniker": "C:\\Users\\Betacom\\Desktop\\Progetti\\JWT\\JWTLogin\\JWTLogin.csproj",
+              "RelativeDocumentMoniker": "JWTLogin.csproj",
+              "ToolTip": "C:\\Users\\Betacom\\Desktop\\Progetti\\JWT\\JWTLogin\\JWTLogin.csproj",
+              "RelativeToolTip": "JWTLogin.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-09T09:11:02.59Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

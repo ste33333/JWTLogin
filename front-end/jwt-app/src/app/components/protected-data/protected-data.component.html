@@ -1,0 +1,28 @@
+<div class="page-container">
+  <div class="page-header">
+    <h2>Dashboard Utente</h2>
+    <button (click)="logout()" class="btn logout-button">Logout</button>
+  </div>
+
+  <div *ngIf="username" class="user-info">
+    <p>Benvenuto, <strong>{{ username }}</strong>!</p>
+    </div>
+
+  <div *ngIf="isLoading && !apiData && !apiError" class="loading-indicator">
+    <p>Caricamento dati protetti...</p>
+    </div>
+
+  <div *ngIf="apiData && !isLoading" class="data-section">
+    <h3>Dati Protetti dal Server:</h3>
+    <p>{{ apiData.message }}</p>
+    <p>Timestamp dal server: {{ apiData.timestamp | date:'medium' }}</p> </div>
+
+  <div *ngIf="apiError && !isLoading" class="error-message api-error-box">
+    <p>Errore nel caricamento dei dati: {{ apiError }}</p>
+  </div>
+
+  <button (click)="loadProtectedData()" class="btn btn-primary" [disabled]="isLoading">
+    <span *ngIf="!isLoading">Ricarica Dati</span>
+    <span *ngIf="isLoading">Caricamento...</span>
+  </button>
+</div>
